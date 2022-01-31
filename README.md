@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayank
 - 👀 I’m interested in programming. 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently developing my skills in dsa and learning WedD.
 - 📫 How to reach me - mayankkm2100@gmail.com
 
 <!---
